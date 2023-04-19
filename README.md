@@ -1,7 +1,7 @@
 # riscv-full-system
 RISCV full system support on gem5 related files live here
 
-
+** Note: Next stuff is outdated **
 ## Current Status of RISCV Linux boot in gem5:
 
 The details of the issues related to RISCV full system/linux boot support in gem5 can be found in [JIRA](https://gem5.atlassian.net/browse/GEM5-367).
